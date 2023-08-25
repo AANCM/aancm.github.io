@@ -1,5 +1,5 @@
 # Site settings
-title: Grayscale
+title: Austrian Association for Negotiation and Conflict Management
 email: your-email@domain.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -8,22 +8,24 @@ description: "Write an awesome description for your new site here. You can edit 
 color:
   primary-dark: '#000000'
   links: '#219ab3'
+  aancm-deep-blue: '#0f387a'
+  aancm-light-blue: '#a6c1d1'
+  aancm-accent-blue: '#e4eaf2'
+  aancm-off-white: '#f7f7f7'
 
 # Footer settings
-footer: Your Website
+footer: Austrian Association for Negotiation and Conflict Management
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: instagram
+    url: https://www.instagram.com/negotiator.at/
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/people/Austrian-Association-for-Negotiation-and-Conflict-Management/100087431952174/
+  - title: linkedin
+    url: https://www.linkedin.com/company/86826045/admin/feed/posts/
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/AANCM
 
 # Build settings
 markdown: kramdown
