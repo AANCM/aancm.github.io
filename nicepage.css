@@ -41630,6 +41630,16 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 0;
 }
 
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-footer .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-footer .u-layout-cell-2 {
   min-height: 121px;
 }
