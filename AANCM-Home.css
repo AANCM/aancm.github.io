@@ -175,14 +175,14 @@
 }
 
 .u-section-2 .u-repeater-1 {
-  grid-template-columns: repeat(3, calc(33.3333% - 20px));
+  grid-template-columns: calc(33.3333% - 20px) calc(33.3333% - 20px) calc(33.3333% - 20px);
   min-height: 375px;
   grid-auto-columns: calc(33.3333% - 20px);
-  grid-gap: 30px;
+  grid-gap: 30px 30px;
 }
 
 .u-section-2 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/3.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/rsz_workshop-coworking-teamwork.jpg");
   background-position: 50% 50%;
 }
 
@@ -194,7 +194,7 @@
   width: 97px;
   height: 97px;
   margin: 0 auto;
-  padding: 0;
+  padding: 10px;
 }
 
 .u-section-2 .u-text-3 {
@@ -203,7 +203,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/wr3q.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/medium-shot-women-business-meeting.jpg");
   background-position: 50% 50%;
 }
 
@@ -215,7 +215,7 @@
   width: 97px;
   height: 97px;
   margin: 0 auto;
-  padding: 0;
+  padding: 10px;
 }
 
 .u-section-2 .u-text-4 {
@@ -224,7 +224,7 @@
 }
 
 .u-section-2 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/3453.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/rsz_hanging-out-with-each-other.jpg");
   background-position: 50% 50%;
 }
 
@@ -236,7 +236,7 @@
   width: 97px;
   height: 97px;
   margin: 0 auto;
-  padding: 0;
+  padding: 10px;
 }
 
 .u-section-2 .u-text-5 {
@@ -245,7 +245,7 @@
 }
 
 .u-section-2 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/5467.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/5tr5.jpg");
   background-position: 50% 50%;
 }
 
@@ -257,7 +257,7 @@
   width: 97px;
   height: 97px;
   margin: 0 auto;
-  padding: 0;
+  padding: 10px;
 }
 
 .u-section-2 .u-text-6 {
@@ -266,7 +266,7 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/5tr5.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/dd1440b3f1c4b6d2bcba9661429e31d40718a9105c331a325e9cf6aa52a458b4fef6a90014867362a4b94f24d98ec8c0ed9b754224482687e93711_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -278,7 +278,7 @@
   width: 97px;
   height: 97px;
   margin: 0 auto;
-  padding: 0;
+  padding: 10px;
 }
 
 .u-section-2 .u-text-7 {
@@ -442,20 +442,20 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 355px;
+  min-height: 378px;
 }
 
 .u-section-3 .u-list-1 {
-  grid-template-rows: repeat(1, auto);
+  grid-template-rows: auto;
   grid-auto-rows: 100%;
-  margin-top: 1px;
+  margin-top: 0;
   margin-bottom: 60px;
 }
 
 .u-section-3 .u-repeater-1 {
-  grid-template-columns: repeat(3, calc(33.3333% - 20px));
-  min-height: 294px;
-  grid-gap: 30px;
+  grid-template-columns: calc(33.3333% - 20px) calc(33.3333% - 20px) calc(33.3333% - 20px);
+  min-height: 316px;
+  grid-gap: 30px 30px;
 }
 
 .u-section-3 .u-container-layout-1 {
