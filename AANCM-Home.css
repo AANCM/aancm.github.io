@@ -203,7 +203,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/medium-shot-women-business-meeting.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/expert-lecture.jpg");
   background-position: 50% 50%;
 }
 
@@ -245,7 +245,7 @@
 }
 
 .u-section-2 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/5tr5.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/rsz_think-tank-sticky-notes.jpg");
   background-position: 50% 50%;
 }
 
@@ -266,7 +266,7 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/dd1440b3f1c4b6d2bcba9661429e31d40718a9105c331a325e9cf6aa52a458b4fef6a90014867362a4b94f24d98ec8c0ed9b754224482687e93711_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(74,91,103,0.75), rgba(74,91,103,0.75)), url("images/rsz_conference-meeting_1.jpg");
   background-position: 50% 50%;
 }
 
@@ -442,14 +442,14 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 378px;
+  min-height: 366px;
 }
 
 .u-section-3 .u-list-1 {
   grid-template-rows: auto;
   grid-auto-rows: 100%;
-  margin-top: 0;
-  margin-bottom: 60px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .u-section-3 .u-repeater-1 {
