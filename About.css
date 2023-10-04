@@ -909,7 +909,7 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 920px;
+  min-height: 1428px;
 }
 
 .u-section-4 .u-text-1 {
@@ -920,7 +920,7 @@
 
 .u-section-4 .u-list-1 {
   grid-template-rows: auto auto auto;
-  margin-top: 55px;
+  margin-top: 54px;
   margin-bottom: 60px;
 }
 
@@ -988,7 +988,7 @@
 .u-section-4 .u-image-2 {
   width: 197px;
   height: 197px;
-  background-image: url("images/copyIMG-20220930-WA0028.jpg");
+  background-image: url("images/Felix1.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -1179,11 +1179,6 @@
     padding-right: 20px;
   }
 
-  .u-section-4 .u-image-1 {
-    width: 153px;
-    height: 153px;
-  }
-
   .u-section-4 .u-text-2 {
     font-size: 1.25rem;
   }
@@ -1191,11 +1186,6 @@
   .u-section-4 .u-container-layout-2 {
     padding-left: 20px;
     padding-right: 20px;
-  }
-
-  .u-section-4 .u-image-2 {
-    width: 153px;
-    height: 153px;
   }
 
   .u-section-4 .u-text-4 {
@@ -1207,11 +1197,6 @@
     padding-right: 20px;
   }
 
-  .u-section-4 .u-image-3 {
-    width: 153px;
-    height: 153px;
-  }
-
   .u-section-4 .u-text-6 {
     font-size: 1.25rem;
   }
@@ -1221,11 +1206,6 @@
     padding-right: 20px;
   }
 
-  .u-section-4 .u-image-4 {
-    width: 153px;
-    height: 153px;
-  }
-
   .u-section-4 .u-text-8 {
     font-size: 1.25rem;
   }
@@ -1233,11 +1213,6 @@
   .u-section-4 .u-container-layout-5 {
     padding-left: 20px;
     padding-right: 20px;
-  }
-
-  .u-section-4 .u-image-5 {
-    width: 153px;
-    height: 153px;
   }
 
   .u-section-4 .u-text-10 {
@@ -1255,45 +1230,20 @@
     min-height: 2283px;
   }
 
-  .u-section-4 .u-image-1 {
-    width: 197px;
-    height: 197px;
-  }
-
   .u-section-4 .u-text-2 {
     font-size: 1.5rem;
-  }
-
-  .u-section-4 .u-image-2 {
-    width: 197px;
-    height: 197px;
   }
 
   .u-section-4 .u-text-4 {
     font-size: 1.5rem;
   }
 
-  .u-section-4 .u-image-3 {
-    width: 197px;
-    height: 197px;
-  }
-
   .u-section-4 .u-text-6 {
     font-size: 1.5rem;
   }
 
-  .u-section-4 .u-image-4 {
-    width: 197px;
-    height: 197px;
-  }
-
   .u-section-4 .u-text-8 {
     font-size: 1.5rem;
-  }
-
-  .u-section-4 .u-image-5 {
-    width: 197px;
-    height: 197px;
   }
 
   .u-section-4 .u-text-10 {
