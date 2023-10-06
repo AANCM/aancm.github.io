@@ -41739,25 +41739,24 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 70px;
+    min-height: 54px;
   }
 
   .u-header .u-image-1 {
-    width: 296px;
-    height: 59px;
-    margin-top: 5px;
-    margin-left: -50px;
+    width: 264px;
+    height: 53px;
+    margin-top: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -46px;
-    margin-right: -24px;
+    margin-top: -42px;
+    margin-right: -12px;
   }
 
   .u-header .u-language-1 {
     margin-top: -32px;
-    margin-right: 20px;
-    margin-bottom: 26px;
+    margin-right: 18px;
+    margin-bottom: 18px;
   }
 
   .u-header .u-icon-1 {
