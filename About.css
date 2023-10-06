@@ -988,7 +988,7 @@
 .u-section-4 .u-image-2 {
   width: 197px;
   height: 197px;
-  background-image: url("images/Felix.jpg");
+  background-image: url("images/IMG_65075.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -1166,10 +1166,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 904px;
-  }
-
   .u-section-4 .u-repeater-1 {
     min-height: 955px;
   }
@@ -1221,10 +1217,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 2542px;
-  }
-
   .u-section-4 .u-repeater-1 {
     grid-template-columns: calc(50% - 11.5px) calc(50% - 11.5px);
     min-height: 2283px;
