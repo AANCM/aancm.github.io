@@ -613,8 +613,8 @@
   white-space: nowrap;
   height: 32px;
   min-height: 16px;
-  width: 188px;
-  min-width: 124px;
+  width: 136px;
+  min-width: 88px;
   margin: 29px auto 0 0;
 }
 
@@ -631,11 +631,6 @@
 .u-section-4 .u-icon-3 {
   height: 100%;
   color: rgb(197, 54, 164) !important;
-}
-
-.u-section-4 .u-icon-4 {
-  height: 100%;
-  color: rgb(0, 137, 203) !important;
 }
 
 .u-section-4 .u-layout-cell-2 {
