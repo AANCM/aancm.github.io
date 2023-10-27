@@ -41658,7 +41658,6 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
   font-size: 1rem;
   text-transform: uppercase;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -41691,6 +41690,10 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-top: -54px;
     margin-right: 171px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 
   .u-header .u-language-1 {
