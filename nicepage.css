@@ -22855,6 +22855,10 @@ section.u-dialog-block:not(.u-dialog-open) {
   bottom: 0;
   right: 0;
 }
+.u-payment-dialog .u-dialog {
+  max-height: 100vh;
+  overflow: auto;
+}
 .payment-error,
 .payment-success {
   width: 100%;
