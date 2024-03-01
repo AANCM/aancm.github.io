@@ -21583,6 +21583,10 @@ a.pswp__share--download:hover {
   
   --animation-custom_in-translate_y: -50% !important;
 }
+.u-animation-sticky {
+  position: sticky;
+  top: 0;
+}
 .u-cookies-consent {
   display: none;
   position: fixed;
