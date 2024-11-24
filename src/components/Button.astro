@@ -1,0 +1,17 @@
+---
+const { onClick } = Astro.props;
+---
+
+<button
+  class="focus:ring-primary-400 appearance-none rounded-md bg-primary-500 px-4 py-2 font-semibold text-white shadow-md hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-opacity-75"
+>
+  <slot />
+</button>
+
+<script>
+  const button = document.body.querySelector("button");
+
+  if (button) {
+    button.addEventListener("click", () => onClick());
+  }
+</script>
