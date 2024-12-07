@@ -1,0 +1,16 @@
+---
+import { Image } from "astro:assets";
+
+const props = Astro.props;
+---
+
+<a
+  href="/events/courses/"
+  class="w-72 rounded-md shadow-lg shadow-primary-500/25"
+>
+  <Image src={props.image} alt="courses-image" class="w-full rounded-t-md" />
+  <div class="flex flex-col gap-1 rounded-b-md border-t-0 p-4">
+    <h1 class="text-lg font-medium">{props.title}</h1>
+    <p class="text-pretty text-neutral-700">{props.description}</p>
+  </div>
+</a>

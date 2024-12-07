@@ -7,11 +7,3 @@ const { onClick } = Astro.props;
 >
   <slot />
 </button>
-
-<script>
-  const button = document.body.querySelector("button");
-
-  if (button) {
-    button.addEventListener("click", () => onClick());
-  }
-</script>
