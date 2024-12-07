@@ -1,0 +1,44 @@
+---
+//import Offerings from "../sections/Offerings.astro";
+//import DefaultLayout from "../layouts/main.astro";
+
+import { Image } from "astro:assets";
+import Button from "../components/Button.astro";
+import "@fontsource/amiko";
+
+import logoBottom from "./AANCM_Bottom.svg";
+---
+
+<html lang="en" class="font-amiko">
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <div
+      class="flex h-screen w-screen flex-col items-center justify-center shadow-inner shadow-primary-500"
+    >
+      <Image src={logoBottom} alt="AANCM logo" />
+      <h1 class="mt-10 text-2xl font-bold text-primary-500">
+        We are working on a new website.
+      </h1>
+      <div class="mb-6 mt-4 w-2/5">
+        <p class="text-center text-lg">
+          In the meantime you can find our events on eventbrite by clicking on
+          the button below.
+        </p>
+      </div>
+      <a
+        href="https://www.eventbrite.at/o/austrian-association-for-negotiation-and-conflict-management-72875561853"
+      >
+        <Button>Our events</Button>
+      </a>
+    </div>
+    <!--<DefaultLayout
+      title="Home - Austrian Association for Negotiation and Conflict Management"
+    >
+      <div class="grid grid-cols-1 place-items-center gap-20">
+        <Offerings />
+      </div>
+      </DefaultLayout> -->
+  </body>
+</html>
